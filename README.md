@@ -1,0 +1,2 @@
+# .github
+mentalmodel.net

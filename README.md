@@ -1,2 +1,2 @@
 # .github
-public profile
+mentalmodel repo
